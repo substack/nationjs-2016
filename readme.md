@@ -10,7 +10,7 @@ nationjs 2016 McLean VA
 # how we should send files
 
 I want to send you a file.
-I should be able to send you my file.
+I should be able to send you my file with my computer.
 
 ---
 # how we actually send files
@@ -230,7 +230,12 @@ want there to be at least one seeder
 ---
 # webtorrent
 
-bittorrent in the browser
+bittorrent in the browser!
+
+---
+# webtorrent
+
+DEMO: webtorrent
 
 ---
 # future work
